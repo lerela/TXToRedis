@@ -1,4 +1,7 @@
 # TXToRedis
+
+This is a Mistral AI fork of https://github.com/CorentinB/TXToRedis for resiliency purposes. The branch mistral contains easier setup.
+ 
 Push each line from a text file, to a Redis set
 
 # Build
